@@ -1,0 +1,15 @@
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\1_LeapYear\bin\Debug\net8.0\LeapYear.exe
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\1_LeapYear\bin\Debug\net8.0\LeapYear.deps.json
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\1_LeapYear\bin\Debug\net8.0\LeapYear.runtimeconfig.json
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\1_LeapYear\bin\Debug\net8.0\LeapYear.dll
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\1_LeapYear\bin\Debug\net8.0\LeapYear.pdb
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\1_LeapYear\obj\Debug\net8.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\1_LeapYear\obj\Debug\net8.0\LeapYear.AssemblyInfoInputs.cache
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\1_LeapYear\obj\Debug\net8.0\LeapYear.AssemblyInfo.cs
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\1_LeapYear\obj\Debug\net8.0\LeapYear.csproj.CoreCompileInputs.cache
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\1_LeapYear\obj\Debug\net8.0\LeapYear.sourcelink.json
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\1_LeapYear\obj\Debug\net8.0\LeapYear.dll
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\1_LeapYear\obj\Debug\net8.0\refint\LeapYear.dll
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\1_LeapYear\obj\Debug\net8.0\LeapYear.pdb
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\1_LeapYear\obj\Debug\net8.0\LeapYear.genruntimeconfig.cache
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\1_LeapYear\obj\Debug\net8.0\ref\LeapYear.dll
