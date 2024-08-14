@@ -1,0 +1,15 @@
+C:\Prog 2\EjerciciosP2\PII_Python\CSharp\3_DateFormat\obj\Debug\net8.0\DateFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog 2\EjerciciosP2\PII_Python\CSharp\3_DateFormat\obj\Debug\net8.0\DateFormat.AssemblyInfoInputs.cache
+C:\Prog 2\EjerciciosP2\PII_Python\CSharp\3_DateFormat\obj\Debug\net8.0\DateFormat.AssemblyInfo.cs
+C:\Prog 2\EjerciciosP2\PII_Python\CSharp\3_DateFormat\obj\Debug\net8.0\DateFormat.csproj.CoreCompileInputs.cache
+C:\Prog 2\EjerciciosP2\PII_Python\CSharp\3_DateFormat\obj\Debug\net8.0\DateFormat.sourcelink.json
+C:\Prog 2\EjerciciosP2\PII_Python\CSharp\3_DateFormat\bin\Debug\net8.0\DateFormat.exe
+C:\Prog 2\EjerciciosP2\PII_Python\CSharp\3_DateFormat\bin\Debug\net8.0\DateFormat.deps.json
+C:\Prog 2\EjerciciosP2\PII_Python\CSharp\3_DateFormat\bin\Debug\net8.0\DateFormat.runtimeconfig.json
+C:\Prog 2\EjerciciosP2\PII_Python\CSharp\3_DateFormat\bin\Debug\net8.0\DateFormat.dll
+C:\Prog 2\EjerciciosP2\PII_Python\CSharp\3_DateFormat\bin\Debug\net8.0\DateFormat.pdb
+C:\Prog 2\EjerciciosP2\PII_Python\CSharp\3_DateFormat\obj\Debug\net8.0\DateFormat.dll
+C:\Prog 2\EjerciciosP2\PII_Python\CSharp\3_DateFormat\obj\Debug\net8.0\refint\DateFormat.dll
+C:\Prog 2\EjerciciosP2\PII_Python\CSharp\3_DateFormat\obj\Debug\net8.0\DateFormat.pdb
+C:\Prog 2\EjerciciosP2\PII_Python\CSharp\3_DateFormat\obj\Debug\net8.0\DateFormat.genruntimeconfig.cache
+C:\Prog 2\EjerciciosP2\PII_Python\CSharp\3_DateFormat\obj\Debug\net8.0\ref\DateFormat.dll
