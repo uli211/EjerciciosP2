@@ -1,0 +1,15 @@
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\2_NFactorial\obj\Debug\net8.0\NFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\2_NFactorial\obj\Debug\net8.0\NFactorial.AssemblyInfoInputs.cache
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\2_NFactorial\obj\Debug\net8.0\NFactorial.AssemblyInfo.cs
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\2_NFactorial\obj\Debug\net8.0\NFactorial.csproj.CoreCompileInputs.cache
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\2_NFactorial\obj\Debug\net8.0\NFactorial.sourcelink.json
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\2_NFactorial\bin\Debug\net8.0\NFactorial.exe
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\2_NFactorial\bin\Debug\net8.0\NFactorial.deps.json
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\2_NFactorial\bin\Debug\net8.0\NFactorial.runtimeconfig.json
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\2_NFactorial\bin\Debug\net8.0\NFactorial.dll
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\2_NFactorial\bin\Debug\net8.0\NFactorial.pdb
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\2_NFactorial\obj\Debug\net8.0\NFactorial.dll
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\2_NFactorial\obj\Debug\net8.0\refint\NFactorial.dll
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\2_NFactorial\obj\Debug\net8.0\NFactorial.pdb
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\2_NFactorial\obj\Debug\net8.0\NFactorial.genruntimeconfig.cache
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\2_NFactorial\obj\Debug\net8.0\ref\NFactorial.dll

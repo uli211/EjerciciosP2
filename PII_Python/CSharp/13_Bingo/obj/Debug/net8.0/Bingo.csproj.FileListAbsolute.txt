@@ -1,0 +1,5 @@
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\13_Bingo\obj\Debug\net8.0\Bingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\13_Bingo\obj\Debug\net8.0\Bingo.AssemblyInfoInputs.cache
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\13_Bingo\obj\Debug\net8.0\Bingo.AssemblyInfo.cs
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\13_Bingo\obj\Debug\net8.0\Bingo.csproj.CoreCompileInputs.cache
+C:\Repo_Programacion2\Ejercicios\EjerciciosP2\EjerciciosP2\PII_Python\CSharp\13_Bingo\obj\Debug\net8.0\Bingo.sourcelink.json
